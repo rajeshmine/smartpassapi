@@ -1,0 +1,4 @@
+<script>
+	var a=2.0*3.0;
+	console.log(a);
+</script>
